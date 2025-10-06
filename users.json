@@ -1,0 +1,17 @@
+[
+    {
+        "name": "vivek",
+        "email": "motomoti951@gmail.com",
+        "password": "scrypt:32768:8:1$RUe1erbr4DrMANKO$08f933fd08015b54783398d4a621b20bd4c6ca56e3b554c2ea9bde586b53fca7d57898b7a102789c0827bdb562183d6ee09e9dcbf6e813ab3212bf7dad885ce1"
+    },
+    {
+        "name": "vivek",
+        "email": "vk0956709@gmail.com",
+        "password": "scrypt:32768:8:1$IvejWghsaFDfKTvN$3ec1476f68839534bffb74c638f7ca5d424a8da79ce60b6dfeb1cee60cb34a67d7408bc19f834094c16c742f47894bda93adfe1397164ea6eddfba051e40c8b2"
+    },
+    {
+        "name": "khushi",
+        "email": "khushi2234@gmail.com",
+        "password": "scrypt:32768:8:1$pyciBo2S91UnY61v$458376bad7badcedb3dc5b6a326e21b9929e0623f52542b7642b6a618568bb62820e0a53f8886612a8b9e74eac0e2f9dfa078df64032becaa8ac803b028735ea"
+    }
+]
